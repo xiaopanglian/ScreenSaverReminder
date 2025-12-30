@@ -1,0 +1,11 @@
+.vs/
+build/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+*.VC.db
+*.VC.VC.opendb
+ipch/

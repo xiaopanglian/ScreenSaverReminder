@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDI_FAVICON ICON "resources\\favicon.ico"
+favicon ICON "resources\\favicon.ico"
